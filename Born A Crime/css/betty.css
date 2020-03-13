@@ -1,0 +1,51 @@
+body{
+	background-color: bisque;
+	color: black;
+	font-size: 20px;
+	font-family: "Comic Sans Ms",cursive,sans-serif;
+	/*background-image: url(https://d279m997dpfwgl.cloudfront.net/wp/2019/06/GettyImages-1127339518-1.jpg);*/
+    /*text-decoration:  underline overline wavy black;*/
+}
+.anything{
+	margin-right: 300px;
+	margin-left: 300px;
+	text-align: justify;
+
+}
+h2{
+	text-align: center;
+	font-size: 70px;
+	font-family: sans-serif;
+	color: red;
+	text-decoration:  underline  wavy red;
+}
+
+h3{
+	text-align: center;
+	font-size: 70px;
+	font-family: sans-serif;
+	color: red;
+	text-decoration:  underline  dashed red;
+}
+
+h4{
+	text-align: center;
+	font-size: 70px;
+	font-family: sans-serif;
+	color: red;
+	text-decoration:  underline  wavy red;
+}
+h5{
+	text-align: center;
+	font-size: 70px;
+	font-family: sans-serif;
+	color: red;
+	text-decoration:  underline  dashed red;
+}
+h6{
+	text-align: center;
+	font-size: 70px;
+	font-family: sans-serif;
+	color: red;
+	text-decoration:  underline  wavy red;
+}
